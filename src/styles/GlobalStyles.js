@@ -25,17 +25,17 @@ export const GlobalStyles = createGlobalStyle`
     }
 
     body {
+    font-family: "League Spartan"
     margin: 0;
-    color:rgb(208, 120, 120);
+    color:rgb(255, 255, 255);
     background-color: #070724;
     background-image: url('/assets/background-stars.svg);
     background-size: cover;
-    font-family: "League Spartan"
     
     }
 
     h1,h2,h3{
-        font-family: "Antonio";
+        font-family: Antonio';
         margin-block: 0;
     }
 `;
