@@ -24,4 +24,18 @@ export const GlobalStyles = createGlobalStyle`
         color: inherit;
     }
 
+    body {
+    margin: 0;
+    color:rgb(208, 120, 120);
+    background-color: #070724;
+    background-image: url('/assets/background-stars.svg);
+    background-size: cover;
+    font-family: "League Spartan"
+    
+    }
+
+    h1,h2,h3{
+        font-family: "Antonio";
+        margin-block: 0;
+    }
 `;
